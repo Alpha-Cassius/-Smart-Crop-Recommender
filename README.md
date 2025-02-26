@@ -19,7 +19,7 @@ The **Crop Recommendation System** is a machine learning-based GUI application t
 - **scikit-learn** (for machine learning)
 
 ## Dataset
-The model is trained on the **Crop Recommendation Dataset**, which contains essential soil and climate parameters:
+The model is trained on the **Crop Recommendation Dataset** (Open-Source Model By Kaggle), which contains essential soil and climate parameters:
 - **N**: Nitrogen (mg/kg)
 - **P**: Phosphorus (mg/kg)
 - **K**: Potassium (mg/kg)
