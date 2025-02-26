@@ -32,7 +32,7 @@ The model is trained on the **Crop Recommendation Dataset**, which contains esse
 ## Installation
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/Alpha-Cassius/-Smart-Crop-Recommender.git
+   git clone https://github.com/Alpha-Cassius/Smart-Crop-Recommender.git
    cd crop-recommendation
    ```
 2. **Install required dependencies**:
